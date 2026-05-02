@@ -6,5 +6,5 @@ Source: Department of Education
 ![Revenue Chart](Screenshot.png)
 
 ## 📁 Full Technical Documentation
-* **[View Full Databricks Notebook (HTML)](./notebook)** 
+* **[View Full Databricks Notebook (HTML)](./Collegescorecard.html)** 
 * *This notebook contains the end-to-end ETL pipeline and the logic used to generate the charts above.*
